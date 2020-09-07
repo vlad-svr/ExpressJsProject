@@ -1,0 +1,11 @@
+include header.pug
+
+h2 My app
+
+each val, index in goods
+    p #{val['name']}
+    img(
+        src=`images/${val["image"]}`
+        alt=`${val["image"]}`
+    )
+

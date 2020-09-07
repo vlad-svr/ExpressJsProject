@@ -1,0 +1,28 @@
+{
+  "name": "node-2019-course",
+  "version": "1.0.0",
+  "description": "node course 2019",
+  "main": "app.js",
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "mustard-ui": "^1.0.4",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.6",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "2019",
+    "course",
+    "tasks"
+  ],
+  "author": "Vladislav Sviridow",
+  "license": "ISC"
+}
